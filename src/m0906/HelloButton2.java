@@ -7,7 +7,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 
 public class HelloButton2 extends JFrame {
-	
+	 
 	HelloButton2(){
 		
 		JPanel p = new JPanel();

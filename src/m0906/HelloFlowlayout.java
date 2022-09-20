@@ -12,8 +12,8 @@ public class HelloFlowlayout extends JFrame {
 		
 		JPanel p = new JPanel();
 		p.setBackground(Color.pink);
-		add(p);
-		
+		add(p); 
+		 
 		JButton btn = new JButton("버튼1");
 		JButton btn2 = new JButton("버튼2");
 		JButton btn3 = new JButton("버튼3");
